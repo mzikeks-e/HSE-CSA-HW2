@@ -1,0 +1,6 @@
+0 What_is_it??? it_is_riddle
+0 Lamp? pear
+1 What_aphorism "Teacher"
+2 Where? Russia
+1 in_russia_there_are_two_problems "wwwww"
+2 Where? Russia
